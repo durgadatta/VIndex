@@ -1,4 +1,4 @@
 VIndex
 ======
 
-Vertex indices to characterizied molecular properties and activities.
+Vertex indices to characterizie molecular properties and activities.
